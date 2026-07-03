@@ -2,7 +2,12 @@
 ### Web & Automation Developer | Scraping, Bots & Meta Ads
 
 ## Contact Me
-<p><a href="telegram" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
+
+<p>
+  <a href="https://t.me/forbusinesshitman" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%2326A5E4.svg?&style=flat-square&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+</p>
 
 ## Skills
 
